@@ -1,14 +1,14 @@
 # mytypescript-skeleton
+
 typescript skeleton project
 
-# init typescript
+# dir
+
+- src
+- dist
+
+# init
 
 `tsc --init`
-
-# init tslint
-
 `tslint --init`
-
-# init jest
-
 `jest --init`
