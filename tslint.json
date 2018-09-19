@@ -1,0 +1,17 @@
+{
+  "defaultSeverity": "error",
+  "extends": ["tslint:recommended"],
+  "jsRules": {},
+  "rules": {
+    "variable-name": [true, "ban-keywords", "check-format"],
+    "quotemark": [true, "single"],
+    "no-empty": [true, "allow-empty-functions"],
+    "prefer-const": true,
+    "arrow-parens": false,
+    "radix": false
+  },
+  "rulesDirectory": [],
+  "linterOptions": {
+    "exclude": ["node_modules/**/*.ts"]
+  }
+}
