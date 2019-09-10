@@ -9,6 +9,6 @@ typescript skeleton project
 
 # init
 
-`tsc --init`
-`tslint --init`
-`jest --init`
+- tsc --init
+- tslint --init
+- jest --init
